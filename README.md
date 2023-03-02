@@ -2,7 +2,7 @@
 
 Word-bigram model with Kneser-Ney smoothing for next-word prediction and sentence generation.
 
-Evaluation is done on a test set calculating the model's perplexity.
+Evaluation is done on a test set by calculating the model's perplexity.
 
 ## Example:
 
