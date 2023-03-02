@@ -58,3 +58,7 @@ oh !
 Sentence 2:
 oh no doubt of something number of vanity now .
 ```
+
+## Notes
+
+* There is a parameter `freq_threshold` in `get_unigram_counts()` that can be adjusted. The model will replace all words whose count is below this frequency threshold with the <UNK> (unknown) tag. This helps reduce the vocabulary size, allowing for smaller probability matrices.
