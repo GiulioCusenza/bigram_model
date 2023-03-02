@@ -28,7 +28,9 @@ Sentence 2:
 oh !
 
 Sentence 3:
-he was good uncertainty — she recollection , miss f. but mrs. weston too it would be no more to be a point out of mr. elton and so for him to blindness sex should , from attachment any <UNK> , i was .
+he was good uncertainty — she recollection , miss f. but mrs. weston too it would be  
+no more to be a point out of mr. elton and so for him to blindness sex should , from  
+attachment any <UNK> , i was .
 
 - - - - -
 loading data            [##########] 100%
