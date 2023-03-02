@@ -1,2 +1,2 @@
 # Kneser-Ney bigram model
-Word-bigram model for next-word prediction with Kneser-Ney smoothing.
+Word-bigram model with Kneser-Ney smoothing for next-word prediction and sentence generation
