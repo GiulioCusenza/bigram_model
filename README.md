@@ -6,6 +6,9 @@ Evaluation is done on a test set by calculating the model's perplexity.
 
 ## Examples:
 
+1. [kn_bigram_model.py](#kn_bigram_model.py)
+2. [sentence_generator.py](#sentence_generator.py)
+
 ### kn_bigram_model.py
 
 **Run:**
