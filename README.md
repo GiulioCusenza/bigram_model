@@ -4,11 +4,13 @@ Word-bigram model with Kneser-Ney smoothing for next-word prediction and sentenc
 
 Evaluation is done on a test set by calculating the model's perplexity.
 
-## Example:
+## Examples:
+
+### kn_bigram_model.py
 
 **Run:**
 ```
-> python kn_bigram_model.py data/emma_train.txt data/emma_test.txt 
+> python kn_bigram_model.py data/emma_train.txt data/emma_test.txt saved/emma_model.txt
 ```
 
 **Output:**
@@ -36,4 +38,20 @@ attachment any <UNK> , i was .
 loading data            [##########] 100%
 
 Perplexity: 79.69533547426181
+```
+
+### sentence_generator.py
+
+**Run:**
+```
+> python sentence_generator.py --number 2 --trigger oh saved/emma_model.txt
+```
+
+**Output:**
+```
+Sentence 1:
+oh !
+
+Sentence 2:
+oh no doubt of something number of vanity now .
 ```
